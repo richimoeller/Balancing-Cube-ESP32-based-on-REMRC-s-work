@@ -13,6 +13,8 @@ Just follow the calibration procedure provided by REMRC.
 
 I also added the functionality of letting the cube turn on its vertex by sending the commands r+, r- and rs(Stop) via a bluetooth terminal. However the cube will not turn forever in one direction. The wheels will speed up and eventually saturate. Just change the direction or stop it in due time. 
 
+https://www.youtube.com/watch?v=GABWHTa6_v8
+
 I added motor numbers to the schematic as well as to the 3D picture. This way you should be able to connect the motors in the correct order right from the beginning. Feel free to use the Fritzing-board provided. 
 
 It's an amazing project. Enjoy!!
